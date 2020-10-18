@@ -1,4 +1,15 @@
 Some random code here 
 Obhasha added this line A in feature branch
 
+<<<<<<< Updated upstream
 Change by Kaushallya using sourceTree
+=======
+Change by Kaushallya using sourceTree
+
+About us page added with new logic 
+
+ login bug fixed.login bug fixed.login bug fixed.login bug fixed.login bug fixedlogin bug fixedlogin bug fixed
+  login bug fixed.login bug fixed.login bug fixed.login bug fixed.login bug fixedlogin bug fixedlogin bug fixed
+   login bug fixed.login bug fixed.login bug fixed.login bug fixed.login bug fixedlogin bug fixedlogin bug fixed
+    login bug fixed.login bug fixed.login bug fixed.login bug fixed.login bug fixedlogin bug fixedlogin bug fixed
+>>>>>>> Stashed changes
